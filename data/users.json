@@ -1,0 +1,304 @@
+{
+    "accounts": [
+        {
+            "name": "Odoamne",
+            "username": "Odoamne",
+            "id": "2274984734"
+        },
+        {
+            "name": "Malrang",
+            "username": "malrang12",
+            "id": "1153590814078988288"
+        },
+        {
+            "name": "Larssen",
+            "username": "Larssen00",
+            "id": "1628181768"
+        },
+        {
+            "name": "Comp",
+            "username": "CompGRE",
+            "id": "803617802732990464"
+        },
+        {
+            "name": "Trymbi",
+            "username": "trymbilol",
+            "id": "2387428356"
+        },
+        {
+            "name": "Rogue",
+            "username": "Rogue",
+            "id": "717510974769528832"
+        },
+        {
+            "name": "Broken Blade",
+            "username": "BrokenBlade",
+            "id": "4910712159"
+        },
+        {
+            "name": "Jankos",
+            "username": "G2Jankos",
+            "id": "2216500400"
+        },
+        {
+            "name": "Caps",
+            "username": "G2Caps",
+            "id": "2996912843"
+        },
+        {
+            "name": "Flakked",
+            "username": "Flakked_LoL",
+            "id": "1069917217482006528"
+        },
+        {
+            "name": "Targamas",
+            "username": "Targamas",
+            "id": "1042853304"
+        },
+        {
+            "name": "G2 Esports",
+            "username": "G2esports",
+            "id": "1124722303"
+        },
+        {
+            "name": "Wunder",
+            "username": "wunderlol",
+            "id": "2590218632"
+        },
+        {
+            "name": "Razork",
+            "username": "RazorkLoL",
+            "id": "736266300792680449"
+        },
+        {
+            "name": "Humanoid",
+            "username": "Humanoidlol",
+            "id": "2971905857"
+        },
+        {
+            "name": "Upset",
+            "username": "FNC_Upset",
+            "id": "2902700080"
+        },
+        {
+            "name": "Hylissang",
+            "username": "FNCHylissang",
+            "id": "2984116738"
+        },
+        {
+            "name": "FNATIC",
+            "username": "FNATIC",
+            "id": "19976791"
+        },
+        {
+            "name": "Armut",
+            "username": "armutlol",
+            "id": "880717248880685056"
+        },
+        {
+            "name": "Elyoya",
+            "username": "Elyoya_LoL",
+            "id": "2230395243"
+        },
+        {
+            "name": "Reeker",
+            "username": "ReekerKaizen",
+            "id":"917713737179652096"
+        },
+        {
+            "name": "Unforgiven",
+            "username": "UnforgivenLoL",
+            "id": "880524289052741633"
+        },
+        {
+            "name": "Kaiser",
+            "username": "KaiserLoL",
+            "id": "1001904657332080640"
+        },
+        {
+            "name": "MAD Lions",
+            "username": "MADLions",
+            "id": "701712471606824960"
+        },
+        {
+            "name": "Alphari",
+            "username": "Alphari",
+            "id": "2790180781"
+        },
+        {
+            "name": "selfmade",
+            "username": "selfmade_LoL",
+            "id": "843583948844384256"
+        },
+        {
+            "name": "Perkz",
+            "username": "C9Perkz",
+            "id": "1648029396"
+        },
+        {
+            "name": "Carzzy",
+            "username": "Carzzylol",
+            "id": "871412600252375040"
+        },
+        {
+            "name": "Labrov",
+            "username": "Labrov12",
+            "id": "871338180192210944"
+        },
+        {
+            "name": "Team Vitality",
+            "username": "TeamVitality",
+            "id": "1603687711"
+        },
+        {
+            "name": "HiRit",
+            "username": "LoL_HiRit",
+            "id": "1110501062195191809"
+        },
+        {
+            "name": "Shlatan",
+            "username": "ShlatanLoL",
+            "id": "709010808920006656"
+        },
+        {
+            "name": "Vetheo",
+            "username": "Vetheo_lol",
+            "id": "3306984574"
+        },
+        {
+            "name": "Neon",
+            "username": "neon_euw",
+            "id": "841309933995999232"
+        },
+        {
+            "name": "Mersa",
+            "username": "MersaLoL",
+            "id": "983618742079778817"
+        },
+        {
+            "name": "Misfits Gaming LoL",
+            "username": "MisfitsggLoL",
+            "id": "1351634822838562821"
+        },
+        {
+            "name": "Adam",
+            "username": "Ricadam_lol",
+            "id": "921679846513762304"
+        },
+        {
+            "name": "Cinkrof",
+            "username": "Cinkroflol",
+            "id": "734171294716076032"
+        },
+        {
+            "name": "NUCLEAR INT",
+            "username": "Nuclear_int",
+            "id": "3303915651"
+        },
+        {
+            "name": "xMatty",
+            "username": "xMattyyLoL",
+            "id": "838380212157042694"
+        },
+        {
+            "name": "LiMiT",
+            "username": "Limitl0l",
+            "id": "528919214"
+        },
+        {
+            "name": "Team BDS",
+            "username": "TeamBDS",
+            "id": "1050530036976115713"
+        },
+        {
+            "name": "Finn",
+            "username": "FinnLoL",
+            "id": "804340570126766080"
+        },
+        {
+            "name": "Markoon",
+            "username": "MarkoonLoL",
+            "id": "905472381107490816"
+        },
+        {
+            "name": "Nukeduck",
+            "username": "Nukeduck",
+            "id": "1648682035"
+        },
+        {
+            "name": "Patrik",
+            "username": "patriklol",
+            "id": "3326666122"
+        },
+        {
+            "name": "Advienne",
+            "username": "Advienne1",
+            "id": "1009821016753885184"
+        },
+        {
+            "name": "EXCEL",
+            "username": "EXCEL",
+            "id": "2798092004"
+        },
+        {
+            "name": "Jenax",
+            "username": "Jenax_LoL",
+            "id": "762273619728883712"
+        },
+        {
+            "name": "Gilius",
+            "username": "GiliusLoL",
+            "id": "2494302799"
+        },
+        {
+            "name": "Sertuss",
+            "username": "SertussLoL",
+            "id": "827272654126133249"
+        },
+        {
+            "name": "Jezu",
+            "username": "Jezu_lol",
+            "id": "1051160746556608513"
+        },
+        {
+            "name": "Treatz",
+            "username": "Treatz",
+            "id": "1915068812"
+        },
+        {
+            "name": "SK Gaming",
+            "username": "SKGaming",
+            "id": "19596174"
+        },
+        {
+            "name": "WhiteKnight",
+            "username": "WhiteKnight108",
+            "id": "1648975177"
+        },
+        {
+            "name": "Zanzarah",
+            "username": "Zanzarahlol",
+            "id": "766293620592902144"
+        },
+        {
+            "name": "Dajor",
+            "username": "dajorlol",
+            "id": "1392815115125366784"
+        },
+        {
+            "name": "Kobbe",
+            "username": "kobbe",
+            "id": "1250062656"
+        },
+        {
+            "name": "promisq",
+            "username": "promisqxd",
+            "id": "3246815231"
+        },
+        {
+            "name": "Astralis League of Legends",
+            "username": "AstralisLoL",
+            "id": "1304329725444227076"
+        }
+    ]
+}
