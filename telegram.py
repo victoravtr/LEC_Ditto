@@ -1,4 +1,5 @@
 """ Functions related to the Telegram bot """
+from logging.handlers import RotatingFileHandler
 import sys
 import logging
 from os import environ
@@ -6,8 +7,7 @@ import requests
 from dotenv import load_dotenv
 from utils import exception_info
 
-logging.basicConfig(filename='data/log.txt',
-                    filemode='a',
+logging.basicConfig(handlers=[RotatingFileHandler('data/log.txt', maxBytes=524288, backupCount=10)],
                     format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
                     level=logging.INFO)

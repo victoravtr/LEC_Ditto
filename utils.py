@@ -1,4 +1,5 @@
 """ Common functions """
+from logging.handlers import RotatingFileHandler
 import os
 import sys
 import json
@@ -8,8 +9,7 @@ import logging
 from datetime import datetime
 
 
-logging.basicConfig(filename='data/log.txt',
-                    filemode='a',
+logging.basicConfig(handlers=[RotatingFileHandler('data/log.txt', maxBytes=524288, backupCount=10)],
                     format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
                     level=logging.INFO)

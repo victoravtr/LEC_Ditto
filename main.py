@@ -1,5 +1,6 @@
 """ Main logic of the program """
 import logging
+from logging.handlers import RotatingFileHandler
 from deepdiff import DeepDiff
 from telegram import telegram_bot_sendtext
 from twitter import check_account, get_new_followers_list, get_old_followers_list, send_tweet, username_exists
@@ -9,8 +10,7 @@ USERS_JSON_FILE = 'data/users.json'
 USERS_DATA_PATH = 'data/usersData/'
 PICKLE_FILE = 'data/outfile.pickle'
 BLACKLIST_FILE = 'data/blacklist'
-logging.basicConfig(filename='data/log.txt',
-                    filemode='a',
+logging.basicConfig(handlers=[RotatingFileHandler('data/log.txt', maxBytes=524288, backupCount=10)],
                     format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
                     level=logging.INFO)

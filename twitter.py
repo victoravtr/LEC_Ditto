@@ -1,5 +1,6 @@
 """ Functions related to the Twitter API """
 
+from logging.handlers import RotatingFileHandler
 import sys
 import logging
 from time import sleep
@@ -34,8 +35,7 @@ HEADERS = {
 }
 
 
-logging.basicConfig(filename='data/log.txt',
-                    filemode='a',
+logging.basicConfig(handlers=[RotatingFileHandler('data/log.txt', maxBytes=524288, backupCount=10)],
                     format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
                     level=logging.INFO)
