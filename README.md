@@ -2,7 +2,7 @@
 
 # ✨ LEC_Ditto ✨
 
-<img src="ditto.png" height="auto" width="200">
+<img src="https://raw.githubusercontent.com/victoravtr/LEC_Ditto/master/ditto.png" height="auto" width="200">
 
 I'm **Ditto**, and I'm a **bot** 🤖.
 
